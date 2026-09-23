@@ -1,0 +1,18 @@
+html {
+    background-color: #151a7b;
+}
+
+body {
+    padding: 1em;
+    width: 50%;
+}
+
+* {
+    font-family: monospace !important;
+    font-size: 15pt;
+    color: white;
+}
+
+h1 {
+    font-size: 2em;
+}
