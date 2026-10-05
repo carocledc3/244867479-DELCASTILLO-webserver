@@ -1,3 +1,5 @@
+# Lab 3 Guide Questions (and Answers)
+
 1. What command is used to create a database?
     - `CREATE DATABASE <database_name>;`. 
 
