@@ -1,6 +1,6 @@
 # MariaDB Activity 2
-**Name:** C. Romeo Del Castillo III
-**Student ID:** 24-4867-479
+**Name:** C. Romeo Del Castillo III, Hannah Gan
+**Student ID:** 24-4867-479, 24-1733-396
 **Course/Section:** CIT17-3H
 ## Database
 `school`
@@ -9,7 +9,7 @@
 - `courses`
 - `enrolments`
 ## What I Learned
-- In this activity, I learned how to relate tables to one another using foreign keys, how to view and consolidate data from across tables using joins, and how to sort and group entries in tables using SQL queries.
+- In this activity, we learned how to relate tables to one another using foreign keys, how to view and consolidate data from across tables using joins, and how to sort and group entries in tables using SQL queries.
 ## Guide Questions
 1. What is a primary key?
  - A primary key is a unique identifier for each entry in an SQL table.
@@ -30,4 +30,4 @@
 9. Why is database normalisation important?
  - Database normalisation is important as this helps ensure the organisation, integrity, and cross-referrability of the data.
 10. What did you learn from this activity?
- - In this activity, I learned how to relate tables to one another using foreign keys, how to view and consolidate data from across tables using joins, and how to sort and group entries in tables using SQL queries. 
+ - In this activity, We learned how to relate tables to one another using foreign keys, how to view and consolidate data from across tables using joins, and how to sort and group entries in tables using SQL queries. 
